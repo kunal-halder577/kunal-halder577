@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kunal Halder 
-- 👀 I’m interested in Development and DevOps.
+- 👋 Hi, I’m Kunal Halder
+- 👀 Interested in Development and DevOps.
 - 🌱 I’m currently learning Dsa and Git, GitHub.
 - 💞️ I’m looking to collaborate on Development projects.
 - 📫 How to reach me ...
